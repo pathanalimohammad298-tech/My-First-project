@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include<iostream>
 using namespace std;
 
@@ -140,3 +141,6 @@ cout<<"The winer is:"<<winer;
 
 
    }
+=======
+  
+>>>>>>> main
